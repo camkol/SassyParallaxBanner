@@ -7,12 +7,12 @@ body {
 }
 
 #landscape {
-  background: url("https://content.codecademy.com/projects/sass/landscape.jpg") no-repeat center center fixed;
+  background: url("images/landscape.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
 #monkeys {
-  background: url("https://content.codecademy.com/projects/sass/monkeys.jpg") no-repeat center center fixed;
+  background: url("images/monkeys.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 

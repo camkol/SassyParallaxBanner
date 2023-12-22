@@ -22,15 +22,11 @@ body {
 }
 
 #landscape {
-  @include parallax-background(
-    "https://content.codecademy.com/projects/sass/landscape.jpg"
-  );
+  @include parallax-background("images/landscape.jpg");
 }
 
 #monkeys {
-  @include parallax-background(
-    "https://content.codecademy.com/projects/sass/monkeys.jpg"
-  );
+  @include parallax-background("images/monkeys.jpg");
 }
 
 #landscape,
